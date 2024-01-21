@@ -1,0 +1,32 @@
+machine learning 
+it is type of AI who allows software applicatons ro predict more accurate outcome without being explicitlily programmed.
+
+ML and traditional program
+in ML algorithms automatically formulate the code rules while computing a program to generate output
+in T programmer has to formulate the code rules.
+
+applications
+image recognization
+speech recongnization
+online fraud trasaction
+stock marketing trading
+traffic prediction
+
+in real life
+spam filters of mails
+online fraud trasaction
+google maps
+
+Types of learning algorithms
+supervised algorithm
+unsupervised algorithm
+semi-supervised algorithm
+
+steps invlolved in ml
+collect data
+prep data
+choose model
+train the model
+evalution
+parameter tunning
+prediction or interfernce
